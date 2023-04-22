@@ -1,4 +1,4 @@
-# Problemas-de-programaci-n-funcional
+# Problemas de programación funcional
 
 La empresa de abarrotes doña Julia tiene una lista de productos donde almacena la clave del producto, su descripción precio, clasificación, cantidad de existencia, existencia mínima y máxima. Doña Julia requiere generar varios reportes:
 
